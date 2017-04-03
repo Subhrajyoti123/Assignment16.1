@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266803398461",
+    "project_id": "assignment-161"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266803398461:android:e8782f4b5d81f373",
+        "android_client_info": {
+          "package_name": "com.compkerworld.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266803398461-3mn5fhcvak707nleujn4kqdip4mi04gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.compkerworld.sociallogin",
+            "certificate_hash": "0f02326517015bf698be3eb44b0a31e3d16924e9"
+          }
+        },
+        {
+          "client_id": "266803398461-bhpcken25q8qjuf648690tcb3prmd0uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbiKABV4K9D-SvWe0JxtUH0m2p3PGb8oM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
